@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Store Receipt Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8790a1b143c8d38fdb6131ab9c95b40e81ec71e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Store Receipt Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Store Receipt Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
